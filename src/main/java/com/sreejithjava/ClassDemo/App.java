@@ -1,4 +1,4 @@
-package com.sreejithjava;
+package com.sreejithjava.ClassDemo;
 
 /**
  * Hello world!
@@ -10,4 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
 }

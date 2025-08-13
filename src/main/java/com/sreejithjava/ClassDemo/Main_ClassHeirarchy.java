@@ -1,4 +1,4 @@
-package com.sreejithjava;
+package com.sreejithjava.ClassDemo;
 
 import com.sreejithjava.DecisionMaking.AbstractClassDemo1;
 
@@ -22,12 +22,8 @@ public class Main_ClassHeirarchy {
             @Override
             public void display() {
                 ;
+                System.out.println("Mandatory Overriden Implementation of abstract method");
             }
-           @Override
-            public void print()
-           {
-               ;
-           }
-        }
+        };
     }
 }
